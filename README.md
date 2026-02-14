@@ -44,6 +44,27 @@ Dünya futbolunun en ünlü 30 oyuncusunun detaylı bilgilerini gösteren **Wind
 ---
 
 
+## 🎮 Nasıl Kullanılır?
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[🏠 Ana Ekran] -->|Oyuncu Seç| B[👤 Detay Ekranı]
+    B -->|Geri| A
+    style A fill:#4CAF50
+    style B fill:#2196F3
+```
+
+</div>
+
+1. **Uygulamayı aç** → Ana ekranda 30 futbolcu görünür
+2. **Oyuncu seç** → İstediğin futbolcuya tıkla  
+3. **Bilgileri gör** → Ad, yaş, takım, piyasa değeri
+4. **Geri dön** → Ana ekrana dön
+
+---
+
 ## ⚽ Futbolcular
 
 <div align="center">
@@ -84,7 +105,7 @@ Dünya futbolunun en ünlü 30 oyuncusunun detaylı bilgilerini gösteren **Wind
 
 ---
 
-## 📸 Tanıtım
+## 📸 Demo
 
 <div align="center">
 
@@ -100,13 +121,17 @@ Dünya futbolunun en ünlü 30 oyuncusunun detaylı bilgilerini gösteren **Wind
 
 </div>
 
+---
+
+## � Geliştirme Fikirleri
+
+
+
+<div align="center">
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/username)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/username)
-
----
-
 
 
 </div>
